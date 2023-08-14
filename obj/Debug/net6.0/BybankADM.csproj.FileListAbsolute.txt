@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\BybankADM\BybankADM\bin\Debug\net6.0\BybankADM.exe
+C:\Users\lucas\source\repos\BybankADM\BybankADM\bin\Debug\net6.0\BybankADM.deps.json
+C:\Users\lucas\source\repos\BybankADM\BybankADM\bin\Debug\net6.0\BybankADM.runtimeconfig.json
+C:\Users\lucas\source\repos\BybankADM\BybankADM\bin\Debug\net6.0\BybankADM.dll
+C:\Users\lucas\source\repos\BybankADM\BybankADM\bin\Debug\net6.0\BybankADM.pdb
+C:\Users\lucas\source\repos\BybankADM\BybankADM\obj\Debug\net6.0\BybankADM.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\BybankADM\BybankADM\obj\Debug\net6.0\BybankADM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\BybankADM\BybankADM\obj\Debug\net6.0\BybankADM.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\BybankADM\BybankADM\obj\Debug\net6.0\BybankADM.AssemblyInfo.cs
+C:\Users\lucas\source\repos\BybankADM\BybankADM\obj\Debug\net6.0\BybankADM.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\BybankADM\BybankADM\obj\Debug\net6.0\BybankADM.dll
+C:\Users\lucas\source\repos\BybankADM\BybankADM\obj\Debug\net6.0\refint\BybankADM.dll
+C:\Users\lucas\source\repos\BybankADM\BybankADM\obj\Debug\net6.0\BybankADM.pdb
+C:\Users\lucas\source\repos\BybankADM\BybankADM\obj\Debug\net6.0\BybankADM.genruntimeconfig.cache
+C:\Users\lucas\source\repos\BybankADM\BybankADM\obj\Debug\net6.0\ref\BybankADM.dll
